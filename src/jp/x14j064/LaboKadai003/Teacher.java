@@ -16,5 +16,4 @@ void print() {
 	System.out.println("Šw‰ÈF" + depertment);
 }
 
-
 }

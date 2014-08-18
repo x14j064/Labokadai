@@ -5,9 +5,13 @@ public class Person {
 	int age;
 	String address;
 	Person(String name,int age,String address){
-		//test
+		this.name=name;
+		this.age=age;
+		this.address=address;
+		
 	}
 
+	
 	void print() {
 		System.out.println("–¼‘O:" + name);
 		System.out.println("”N—îF" + age);
